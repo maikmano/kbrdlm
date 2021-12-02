@@ -10,10 +10,10 @@ ou
 https://maikmano.github.io/kbrdlm/
 ## Alunos
 
-- [Maik Diego](https://www.github.com/maikMano)
-- [Daniel Silva](https://www.github.com/danielsilva33)
-- [Lucas Carvalho](https://www.github.com/lucascarsilva)
-- [Renan Bertolucci](https://www.github.com/reberto96)
+- [Maik Diego](https://www.github.com/maikMano) RA 3019111557
+- [Daniel Silva](https://www.github.com/danielsilva33) RA 3019103541
+- [Lucas Carvalho](https://www.github.com/lucascarsilva) RA 3019115159
+- [Renan Bertolucci](https://www.github.com/reberto96) RA 3019113696
 
 
 
