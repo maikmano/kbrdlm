@@ -2,6 +2,7 @@
 # Kings Salons
 
 Projeto para a apresentação do dia 02/12/2021.
+06/A - SI - VP 2021.
 
 ## Alunos
 
