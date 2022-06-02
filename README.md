@@ -1,27 +1,37 @@
 
-# Kings Salons
+# 👑 Kings Salon 👑
 
-Projeto para a apresentação do dia 02/12/2021.
+ Projeto desenvolvido para o curso de Sistemas de Informação, [Kings Salon](https://maikmano.github.io/kbrdlm/) é um site de apresentação de uma barbearia ficticia.
 
-06/A - SI NOTURNO - VP 2021.
+ 
 
-https://gracious-hugle-995af5.netlify.app/
-ou
-https://maikmano.github.io/kbrdlm/
-## Alunos
 
-- [Maik Diego](https://www.github.com/maikMano) RA 3019111557
-- [Daniel Silva](https://www.github.com/danielsilva33) RA 3019103541
-- [Lucas Carvalho](https://www.github.com/lucascarsilva) RA 3019115159
-- [Renan Bertolucci](https://www.github.com/reberto96) RA 3019113696
+## 👨‍💻 Desenvolvido por:
+
+- [Maik Diego](https://www.github.com/octokatherine)
+- [Daniel Silva](https://github.com/danielsilva33)
+- [Lucas Carvalho](https://github.com/lucascarsilva)
+- [Renan Bertolucci](https://github.com/reberto96)
 
 
 
 
 
-## Tecnologias
+## 📷 Screenshots
+#### Light Mode:
+![Light Mode](https://i.imgur.com/b7ABHTZ.png)
+#### Dark Mode:
+![Dark Mode](https://i.imgur.com/ozHA8Hj.png)
+#### Mobile:
+![Mobile](https://i.imgur.com/rXlVApa.png)
+#### NavBar Mobile:
+![Navbar](https://i.imgur.com/nZ7FMJW.png)
 
-**Foram Usados:** HTML, CSS, SaSS e Js.
 
+
+
+## 🔗 Meus Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maik-diego-27318b216/)
 
 
